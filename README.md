@@ -1,6 +1,6 @@
 # Breast Cancer Classification with Logistic Regression
 
-This repository contains a Python script for building a predictive model to classify breast cancer as benign or malignant using logistic regression. The code includes the following steps:
+*This repository contains a Python script for building a predictive model to classify breast cancer as benign or malignant using logistic regression. The code includes the following steps:*
 
 1. **Importing Dependencies**: The necessary libraries, including NumPy, Pandas, and scikit-learn, are imported.
 
