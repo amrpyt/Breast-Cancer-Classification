@@ -16,4 +16,10 @@
 
 7. **Building a Predictive System**: A function is provided to predict the label (benign or malignant) based on input features. An example of usage is demonstrated.
 
+---
+
+**click here to try it on colab :** https://colab.research.google.com/drive/1M6qfonnaUzLlhMf3n-wUXWvTl5OkWX7M?usp=sharing
+
+**The link of the data that i used :** https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
 Feel free to explore the code and utilize it for breast cancer classification tasks. If you have any questions or suggestions, please feel free to reach out.
